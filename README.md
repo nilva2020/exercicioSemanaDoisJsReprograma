@@ -1,14 +1,14 @@
-#EXERCICIO SEMANA 01 COM JAVASCRIPT
+# EXERCICIO SEMANA 01 COM JAVASCRIPT
 
 <h1 align="center"> PROJETO REPROGRAMA BACK-END</h1>
 <hr/>
 
-<img align="right" src=https://imgbb.com/"><img src="https://i.ibb.co/FWdT2pX/08-04-2022-16-25-02-REC.png" width="60" height="60px">
+<img align="right" src="https://i.ibb.co/FWdT2pX/08-04-2022-16-25-02-REC.png" width="80px" height="80px">
 </a><br />
-<p align="left"> 
-  <b>Aulas ministrada pela Simara_Conceição</b></p>
 
-<p align="left"><b>O que aprendi?</b></p>
+   ## Aulas ministrada pela Simara_Conceição
+
+<p align="left"><b>O que aprendi?✍(◔◡◔)</b></p>
 Em 
 ⭐⭐⭐ Lógica - Variáveis, Tipos de Dados e Operadores.
 <a href="https://www.linkedin.com/in/nilva-pires/" target="_blank">
@@ -17,11 +17,11 @@ Em
 
 
 <p align="left"> Nos exercicios foram aplicado os métodos:<br/></p></br>
-- Interpolar;
-- Concatenar;
-- Uso do console.log;
-- Operadores aritmético;
-- Utilizar o terminal com NODEJS.
+* Interpolar ✔
+* Concatenar ✔
+* Uso do console.log ✔
+* Operadores aritmético ✔
+* Utilizar o terminal com NODEJS ✔
  
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615670651576.png" width="400px" />
